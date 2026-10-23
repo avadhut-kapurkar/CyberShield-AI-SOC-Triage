@@ -1,0 +1,17 @@
+
+.venv/
+venv/
+Scripts/
+__pycache__/
+*.py[cod]
+.env
+.env.*
+!.env.example
+*.pem
+.aws/
+audit/
+.pytest_cache/
+.coverage
+htmlcov/
+dist/
+build/
